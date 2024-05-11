@@ -1,0 +1,188 @@
+@media screen and (max-width:700px) {
+    menu {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+   .menu a{
+    display: none;
+   }
+   .menu i{
+    display:block;
+   }
+   .hero img{
+    margin-top: 2rem;
+    padding-top: 5px;
+}
+.heading-text1 {
+    font-size: 20px;
+    margin: 10px;
+    line-height: 1.3;
+  
+}
+.para {
+    text-align: center;
+    margin: 0;
+    padding: 1rem;
+    font-size: 14px;
+   
+}
+#profile-img{
+    margin-left: -3rem;
+    width: 250px;
+    height: 270px;
+    border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
+
+}
+.about {
+    width: 100%;
+    margin-top: 3em;
+    text-align: center;
+    padding: 1rem;
+    line-height: 1.5;
+    
+}
+.about p{
+    text-align: justify;
+}
+}
+@media screen and (max-width:700px) {
+  .menu{
+    display: flex;
+    width: 50%;
+    justify-content: end;
+  }
+}
+
+@media screen and (max-width:700px) {
+    .second-doc{
+        display: flex;
+        justify-content: center;
+        align-items:center ;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 700px) {
+    .frontend-part{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .left-img img{
+        width: 100%;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 700px) {
+    .information {
+        padding: 25px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .icons {
+        align-self: center;
+    }
+}
+@media screen and (max-width: 700px) {
+    .information h2 {
+        font-size: 25px;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .cover, .card {
+        padding: 0;
+        margin: 20px 0;
+    }
+}
+@media screen and (max-width: 700px) {
+    .learning {
+        margin: 50px 0px;
+        border-radius: 0;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .learning h1 {
+        font-size: 30px;
+       
+        line-height: 1;
+        margin: 20px 0;
+    }
+}
+@media screen and (max-width: 700px) {
+    .learning .title {
+        font-size: 20px;
+        margin: 20px 0;
+        line-height: 1.7;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .project-section h1 {
+        font-size: 30px;
+        line-height: 1;
+        margin: 20px 0;
+    }
+}
+@media screen and (max-width: 700px) {
+    .project-section .title {
+        font-size: 20px;
+        margin: 20px 0;
+        line-height: 1.7;
+    }
+
+@media screen and (max-width: 700px) {
+    .project-card {
+        margin: 30px 20px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .main-footer {
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 700px) {
+    .inside-footer-two img {
+        width: 200px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .inside-footer-one {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .inside-footer-two {
+        order: -1;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .inside-footer-two img {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .upside {
+        text-align: center;
+    }
+}
+@media screen and (max-width: 700px) {
+    .inside-footer-one p {
+        line-height: 1.7;
+        margin-bottom: 30px;
+    }
+    .hide {
+        display: none;
+    }
+    .main-footer {
+        justify-content: center;
+    }
+    
+}
