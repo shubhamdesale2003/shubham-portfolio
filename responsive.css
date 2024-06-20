@@ -1,5 +1,5 @@
 @media screen and (max-width:700px) {
-    menu {
+    .menu {
         width: 100%;
         display: flex;
         justify-content: center;
@@ -12,7 +12,7 @@
     display:block;
    }
    .hero img{
-    margin-top: 2rem;
+    margin-top: 4rem;
     padding-top: 5px;
 }
 .heading-text1 {
@@ -33,11 +33,11 @@
     width: 250px;
     height: 270px;
     border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-
+display: none;
 }
 .about {
     width: 100%;
-    margin-top: 3em;
+    margin-top: -17em;
     text-align: center;
     padding: 1rem;
     line-height: 1.5;
@@ -45,6 +45,10 @@
 }
 .about p{
     text-align: justify;
+    font-size: 16px;
+}
+.areas-of-expertise{
+    margin-top: 4rem;
 }
 }
 @media screen and (max-width:700px) {
